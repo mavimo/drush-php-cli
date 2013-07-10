@@ -1,0 +1,16 @@
+{
+    "name": "drush/php-cli",
+    "description": "Create PHP CLI command in drush",
+    "authors": [
+        {
+            "name": "Marco Vito Moscaritolo",
+            "email": "marco@agavee.com"
+        },
+        {
+            "name": "Giuseppe Rota"
+        }
+    ],
+    "require": {
+      "d11wtq/boris": "*"
+    }
+}
